@@ -1,1 +1,1 @@
-Authors: Dr. Haykaz Aramyan, Dr. Marios Skevofylakas, Jason Ramchandani - LSEG Developer Community
+Authors: Dr. Marios Skevofylakas, Dr. Haykaz Aramyan, Jason Ramchandani - LSEG Developer Community
